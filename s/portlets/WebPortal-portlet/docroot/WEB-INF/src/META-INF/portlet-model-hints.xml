@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="sa.csmarc.dashboard.model.transactions">
+		<field name="type" type="String" />
+		<field name="companyId" type="long" />
+		<field name="userId" type="long" />
+		<field name="userName" type="String" />
+		<field name="createDate" type="Date" />
+		<field name="modifiedDate" type="Date" />
+		<field name="count" type="int" />
+	</model>
+</model-hints>

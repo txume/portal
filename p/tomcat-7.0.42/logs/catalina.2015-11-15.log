@@ -1,0 +1,314 @@
+Nov 15, 2015 10:11:16 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\WebPortal\eclipse\Java\jre7\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;.
+Nov 15, 2015 10:11:16 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-80"]
+Nov 15, 2015 10:11:16 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2015 10:11:16 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 357 ms
+Nov 15, 2015 10:11:16 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 15, 2015 10:11:16 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.42
+Nov 15, 2015 10:11:16 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\conf\Catalina\localhost\ROOT.xml
+Nov 15, 2015 10:12:06 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\calendar-portlet
+Nov 15, 2015 10:12:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\kaleo-web
+Nov 15, 2015 10:12:12 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\marketplace-portlet
+Nov 15, 2015 10:12:13 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\notifications-portlet
+Nov 15, 2015 10:12:14 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\opensocial-portlet
+Nov 15, 2015 10:12:17 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\resources-importer-web
+Nov 15, 2015 10:12:18 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\sync-web
+Nov 15, 2015 10:12:19 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\web-form-portlet
+Nov 15, 2015 10:12:19 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\welcome-theme
+Nov 15, 2015 10:12:20 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-80"]
+Nov 15, 2015 10:12:20 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2015 10:12:20 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 63409 ms
+Nov 15, 2015 10:55:39 AM org.apache.shindig.config.JsonContainerConfig loadContainers
+INFO: Loading resources from: containers/default/container.js
+Nov 15, 2015 10:55:39 AM org.apache.shindig.config.JsonContainerConfig loadResources
+INFO: Reading container config: containers/default/container.js
+Nov 15, 2015 10:55:39 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFO: Loading resources from: res:features-extras/features.txt
+Nov 15, 2015 10:55:40 AM org.apache.shindig.common.xml.XmlUtil <clinit>
+INFO: Reusing document builders
+Nov 15, 2015 10:55:41 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFO: Loading resources from: res:features/features.txt
+Nov 15, 2015 10:55:47 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFO: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@6be31083
+Nov 15, 2015 10:55:47 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFO: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@6be31083
+Nov 15, 2015 10:55:47 AM org.apache.shindig.gadgets.oauth.OAuthModule$OAuthCrypterProvider <init>
+INFO: Using random key for OAuth client-side state encryption
+Nov 15, 2015 10:56:01 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\WebPortal\eclipse\Java\jre7\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;.
+Nov 15, 2015 10:56:01 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-80"]
+Nov 15, 2015 10:56:01 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2015 10:56:01 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 350 ms
+Nov 15, 2015 10:56:01 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 15, 2015 10:56:01 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.42
+Nov 15, 2015 10:56:01 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\conf\Catalina\localhost\ROOT.xml
+Nov 15, 2015 10:56:30 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\calendar-portlet
+Nov 15, 2015 10:56:33 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\kaleo-web
+Nov 15, 2015 10:56:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\marketplace-portlet
+Nov 15, 2015 10:56:37 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\notifications-portlet
+Nov 15, 2015 10:56:38 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\opensocial-portlet
+Nov 15, 2015 10:56:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\resources-importer-web
+Nov 15, 2015 10:56:42 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\sync-web
+Nov 15, 2015 10:56:43 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\web-form-portlet
+Nov 15, 2015 10:56:43 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\welcome-theme
+Nov 15, 2015 10:56:44 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-80"]
+Nov 15, 2015 10:56:44 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2015 10:56:44 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 42710 ms
+Nov 15, 2015 10:57:23 AM org.apache.shindig.config.JsonContainerConfig loadContainers
+INFO: Loading resources from: containers/default/container.js
+Nov 15, 2015 10:57:23 AM org.apache.shindig.config.JsonContainerConfig loadResources
+INFO: Reading container config: containers/default/container.js
+Nov 15, 2015 10:57:23 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFO: Loading resources from: res:features-extras/features.txt
+Nov 15, 2015 10:57:23 AM org.apache.shindig.common.xml.XmlUtil <clinit>
+INFO: Reusing document builders
+Nov 15, 2015 10:57:23 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFO: Loading resources from: res:features/features.txt
+Nov 15, 2015 10:57:24 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFO: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@1dc090dd
+Nov 15, 2015 10:57:24 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFO: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@1dc090dd
+Nov 15, 2015 10:57:24 AM org.apache.shindig.gadgets.oauth.OAuthModule$OAuthCrypterProvider <init>
+INFO: Using random key for OAuth client-side state encryption
+Nov 15, 2015 10:59:09 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\WebPortal\eclipse\Java\jre7\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;.
+Nov 15, 2015 10:59:09 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-80"]
+Nov 15, 2015 10:59:09 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2015 10:59:09 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 319 ms
+Nov 15, 2015 10:59:09 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 15, 2015 10:59:09 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.42
+Nov 15, 2015 10:59:09 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\conf\Catalina\localhost\ROOT.xml
+Nov 15, 2015 10:59:39 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\calendar-portlet
+Nov 15, 2015 10:59:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\kaleo-web
+Nov 15, 2015 10:59:44 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\marketplace-portlet
+Nov 15, 2015 10:59:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\notifications-portlet
+Nov 15, 2015 10:59:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\opensocial-portlet
+Nov 15, 2015 10:59:50 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\resources-importer-web
+Nov 15, 2015 10:59:51 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\sync-web
+Nov 15, 2015 10:59:51 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\web-form-portlet
+Nov 15, 2015 10:59:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\welcome-theme
+Nov 15, 2015 10:59:53 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-80"]
+Nov 15, 2015 10:59:53 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2015 10:59:53 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 43348 ms
+Nov 15, 2015 11:01:52 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\WebPortal\eclipse\Java\jre7\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;.
+Nov 15, 2015 11:01:52 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-80"]
+Nov 15, 2015 11:01:52 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2015 11:01:52 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 342 ms
+Nov 15, 2015 11:01:53 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 15, 2015 11:01:53 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.42
+Nov 15, 2015 11:01:53 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\conf\Catalina\localhost\ROOT.xml
+Nov 15, 2015 11:02:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\calendar-portlet
+Nov 15, 2015 11:02:23 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\kaleo-web
+Nov 15, 2015 11:02:26 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\marketplace-portlet
+Nov 15, 2015 11:02:28 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\notifications-portlet
+Nov 15, 2015 11:02:29 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\opensocial-portlet
+Nov 15, 2015 11:02:32 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\resources-importer-web
+Nov 15, 2015 11:02:32 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\sync-web
+Nov 15, 2015 11:02:33 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\web-form-portlet
+Nov 15, 2015 11:02:34 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\welcome-theme
+Nov 15, 2015 11:02:34 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-80"]
+Nov 15, 2015 11:02:34 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2015 11:02:34 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 41817 ms
+Nov 15, 2015 11:08:44 AM org.apache.shindig.config.JsonContainerConfig loadContainers
+INFO: Loading resources from: containers/default/container.js
+Nov 15, 2015 11:08:44 AM org.apache.shindig.config.JsonContainerConfig loadResources
+INFO: Reading container config: containers/default/container.js
+Nov 15, 2015 11:08:44 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFO: Loading resources from: res:features-extras/features.txt
+Nov 15, 2015 11:08:44 AM org.apache.shindig.common.xml.XmlUtil <clinit>
+INFO: Reusing document builders
+Nov 15, 2015 11:08:44 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFO: Loading resources from: res:features/features.txt
+Nov 15, 2015 11:08:45 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFO: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@26746317
+Nov 15, 2015 11:08:45 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFO: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@26746317
+Nov 15, 2015 11:08:45 AM org.apache.shindig.gadgets.oauth.OAuthModule$OAuthCrypterProvider <init>
+INFO: Using random key for OAuth client-side state encryption
+Nov 15, 2015 11:14:33 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Nov 15, 2015 11:14:33 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-80"]
+Nov 15, 2015 11:14:33 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2015 11:14:33 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [HSQLDB Timer @5f488d27] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [org.python.google.common.base.internal.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->IlTf2MT6]-HelperThread-#0] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->IlTf2MT6]-HelperThread-#1] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->IlTf2MT6]-HelperThread-#2] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->IlTf2MT6]-HelperThread-#3] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->IlTf2MT6]-HelperThread-#4] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->IlTf2MT6]-HelperThread-#5] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->IlTf2MT6]-HelperThread-#6] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->IlTf2MT6]-HelperThread-#7] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->IlTf2MT6]-HelperThread-#8] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->IlTf2MT6]-HelperThread-#9] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->y2FieF9c]-HelperThread-#0] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->y2FieF9c]-HelperThread-#1] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->y2FieF9c]-HelperThread-#2] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->y2FieF9c]-HelperThread-#3] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->y2FieF9c]-HelperThread-#4] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->y2FieF9c]-HelperThread-#5] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->y2FieF9c]-HelperThread-#6] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->y2FieF9c]-HelperThread-#7] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->y2FieF9c]-HelperThread-#8] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:35 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->y2FieF9c]-HelperThread-#9] but has failed to stop it. This is very likely to create a memory leak.
+Nov 15, 2015 11:14:36 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-80"]
+Nov 15, 2015 11:14:36 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2015 11:14:36 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-80"]
+Nov 15, 2015 11:14:36 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2015 11:31:04 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\WebPortal\eclipse\Java\jre7\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;.
+Nov 15, 2015 11:31:04 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-80"]
+Nov 15, 2015 11:31:04 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2015 11:31:04 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 353 ms
+Nov 15, 2015 11:31:04 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 15, 2015 11:31:04 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.42
+Nov 15, 2015 11:31:04 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\conf\Catalina\localhost\ROOT.xml
+Nov 15, 2015 11:31:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\calendar-portlet
+Nov 15, 2015 11:31:43 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\kaleo-web
+Nov 15, 2015 11:31:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\marketplace-portlet
+Nov 15, 2015 11:31:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\notifications-portlet
+Nov 15, 2015 11:31:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\opensocial-portlet
+Nov 15, 2015 11:31:58 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\resources-importer-web
+Nov 15, 2015 11:31:58 AM org.apache.shindig.config.JsonContainerConfig loadContainers
+INFO: Loading resources from: containers/default/container.js
+Nov 15, 2015 11:31:58 AM org.apache.shindig.config.JsonContainerConfig loadResources
+INFO: Reading container config: containers/default/container.js
+Nov 15, 2015 11:31:58 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\sync-web
+Nov 15, 2015 11:31:58 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFO: Loading resources from: res:features-extras/features.txt
+Nov 15, 2015 11:31:59 AM org.apache.shindig.common.xml.XmlUtil <clinit>
+INFO: Reusing document builders
+Nov 15, 2015 11:31:59 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\web-form-portlet
+Nov 15, 2015 11:32:00 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFO: Loading resources from: res:features/features.txt
+Nov 15, 2015 11:32:00 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\welcome-theme
+Nov 15, 2015 11:32:01 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-80"]
+Nov 15, 2015 11:32:01 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2015 11:32:01 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 56492 ms
+Nov 15, 2015 11:32:05 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFO: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@19f1f107
+Nov 15, 2015 11:32:05 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFO: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@19f1f107
+Nov 15, 2015 11:32:05 AM org.apache.shindig.gadgets.oauth.OAuthModule$OAuthCrypterProvider <init>
+INFO: Using random key for OAuth client-side state encryption

@@ -1,0 +1,9 @@
+1- Download and install jre7 from this like:
+http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html
+
+2- Download and install xampp
+https://www.apachefriends.org/index.html
+
+3- From MySQL control panel create new user with administartion privileges
+User name: lportal
+Pass: 	   lportal

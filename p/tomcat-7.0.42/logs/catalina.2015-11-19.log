@@ -1,0 +1,38 @@
+Nov 19, 2015 8:05:21 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\WebPortal\eclipse\Java\jre7\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/jre7/bin/server;C:/jre7/bin;C:/jre7/lib/amd64;C:\jre7\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;E:\WebPortal\eclipse;;.
+Nov 19, 2015 8:05:21 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-80"]
+Nov 19, 2015 8:05:21 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 19, 2015 8:05:21 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 433 ms
+Nov 19, 2015 8:05:21 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 19, 2015 8:05:21 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.42
+Nov 19, 2015 8:05:21 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\conf\Catalina\localhost\ROOT.xml
+Nov 19, 2015 8:06:12 AM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Error listenerStart
+Nov 19, 2015 8:06:12 AM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [] startup failed due to previous errors
+Nov 19, 2015 8:06:12 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\conf\Catalina\localhost\WebPortal-portlet.xml
+Nov 19, 2015 8:06:12 AM org.apache.catalina.startup.HostConfig deployDescriptor
+WARNING: A docBase E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\webapps\WebPortal-portlet inside the host appBase has been specified, and will be ignored
+Nov 19, 2015 8:06:12 AM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'source' to 'org.eclipse.jst.jee.server:WebPortal-portlet' did not find a matching property.
+Nov 19, 2015 8:16:46 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\WebPortal\eclipse\Java\jre7\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/jre7/bin/server;C:/jre7/bin;C:/jre7/lib/amd64;C:\jre7\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;E:\WebPortal\eclipse;;.
+Nov 19, 2015 8:16:46 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-80"]
+Nov 19, 2015 8:16:46 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 19, 2015 8:16:46 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 340 ms
+Nov 19, 2015 8:16:46 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 19, 2015 8:16:46 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.42
+Nov 19, 2015 8:16:46 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor E:\WebPortal\liferay-portal-6.2-ce\tomcat-7.0.42\conf\Catalina\localhost\ROOT.xml
